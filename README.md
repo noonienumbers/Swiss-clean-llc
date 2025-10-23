@@ -1,5 +1,5 @@
 # Swiss-clean-llc
-Swiss clean is a reliable cleaning service that catersto your needs we move swiss and swift getting everything clean believe in Swiss clean cause we believe in you. very reliable and we're not gonna let you down.
+Swiss clean is a reliable cleaning service that caters to your needs we move swiss and swift getting everything clean believe in Swiss clean cause we believe in you. very reliable and we're not gonna let you down.
 File name: [ index.html ]     ← small box at the top
 
 ────────────────────────────
